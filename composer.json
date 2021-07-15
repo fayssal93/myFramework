@@ -1,0 +1,16 @@
+{
+    "name": "ay017974/my-framework",
+    "description": "un framework de base de POO",
+    "autoload": {
+        "psr-4": {
+            "Ay017974\\MyFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "belaribi faycal",
+            "email": "belaribifaycal@gmail.com"
+        }
+    ],
+    "require": {}
+}
